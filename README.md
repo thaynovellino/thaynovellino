@@ -1,4 +1,4 @@
-## Olá! Eu sou a Thayane Novellino, desenvolvedora front end 😄
+## Olá! Eu sou a Thayane Novellino, desenvolvedora fullstack 😄
 
 
 <div align="center">
